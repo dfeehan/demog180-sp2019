@@ -1,0 +1,80 @@
+interview_number,interview_date,interview_time,respondent_gender,respondent_age,respondent_class,respondent_home,number_alters,alter1_gender,alter1_age,alter1_class,alter1_home,alter2_gender,alter2_age,alter2_class,alter2_home,alter3_gender,alter3_age,alter3_class,alter3_home,alter4_gender,alter4_age,alter4_class,alter4_home,alter5_gender,alter5_age,alter5_class,alter5_home
+1,8/28/17,1:43:00 PM,Female,5,Sophomore,Rest of United States,4,Male,54,Other,Rest of United States,Female,20,Junior,Rest of United States,Female,19,Sophomore,Rest of United States,Female,20,Junior,Bay Area,,,,
+2,8/28/17,9:21:00 PM,Female,24,Other,Bay Area,6+,Female,22,Senior,Rest of California,Female,35,Other,LA Area,Female,56,Other,LA Area,Female,25,Other,LA Area,Male,22,Senior,Bay Area
+3,8/28/17,9:51:00 PM,Female,22,Senior,LA Area,4,Female,21,Senior,Rest of World,Female,23,Other,Bay Area,Female,22,Senior,Rest of California,Female,25,Other,LA Area,,,,
+1,8/28/17,1:43:00 PM,Female,23,Senior,Rest of World,5,Female,23,Senior,LA Area,Male,31,Other,Rest of World,Female,53,Other,Rest of World,Female,26,Other,Rest of World,Male,40,Other,Rest of World
+2,8/28/17,3:40:00 PM,Female,19,Junior,Bay Area,4,Female,42,Other,Bay Area,Male,45,Other,Bay Area,Female,20,Junior,Bay Area,Female,21,Senior,Bay Area,,,,
+3,8/28/17,3:45:00 PM,Male,20,Junior,Rest of United States,2,Male,19,Junior,LA Area,Female,20,Junior,Rest of World,,,,,,,,,,,,
+1,8/28/17,1:45:00 PM,Female,18,Sophomore,Bay Area,5,Male,53,Other,Bay Area,Female,51,Other,Bay Area,Male,19,Sophomore,Bay Area,Male,18,Sophomore,Bay Area,Female,18,Sophomore,Bay Area
+2,8/28/17,2:04:00 PM,Male,18,Freshman,Rest of World,3,Female,46,Other,Rest of World,Male,48,Other,Rest of World,Female,17,Other,Rest of United States,,,,,,,,
+3,8/29/17,2:08:00 PM,Male,22,Senior,Rest of World,2,Male,22,Senior,Rest of World,Male,22,Senior,Rest of California,,,,,,,,,,,,
+1,8/28/17,1:43:00 PM,Male,20,Junior,Bay Area,5,Female,20,Junior,Bay Area,Male,20,Junior,Bay Area,Male,20,Junior,LA Area,Male,23,Other,LA Area,Female,20,Junior,Bay Area
+2,8/30/17,9:25:00 PM,Female,22,Other,Rest of World,5,Male,51,Other,Rest of World,Female,48,Other,Rest of World,Female,21,Senior,Rest of World,Female,22,Freshman,Rest of World,Female,22,Freshman,Rest of World
+3,8/30/17,5:00:00 PM,Male,28,Junior,Rest of World,4,Female,22,Junior,Rest of World,Female,25,Senior,Rest of United States,Male,58,Other,Rest of World,Female,48,Other,LA Area,,,,
+1,8/28/17,1:42:00 AM,Male,20,Junior,Rest of World,6+,Male,28,Other,Rest of World,Male,26,Other,Rest of World,Male,24,Other,Rest of World,Male,19,Junior,Rest of World,Male,20,Junior,Rest of World
+2,8/28/17,8:05:00 PM,Female,21,Senior,Bay Area,4,Female,51,Other,Rest of World,Male,26,Other,Bay Area,Male,52,Other,Rest of World,Female,21,Senior,Rest of California,,,,
+3,8/31/17,3:09:00 PM,Female,21,Senior,Bay Area,4,Female,54,Other,Bay Area,Male,58,Other,Bay Area,Male,16,Other,Bay Area,Female,22,Other,Bay Area,,,,
+1,8/28/17,1:42:00 PM,Female,20,Junior,Bay Area,5,Female,48,Other,Bay Area,Male,49,Other,Bay Area,Female,20,Junior,Bay Area,Female,20,Junior,Bay Area,Male,22,Other,Bay Area
+2,8/28/17,4:09:00 PM,Female,20,Junior,Rest of United States,5,Female,20,Junior,Bay Area,Female,20,Junior,Bay Area,Female,20,Junior,Bay Area,Female,22,Senior,Rest of United States,Female,19,Sophomore,Bay Area
+3,8/28/17,7:31:00 PM,Male,21,Senior,Bay Area,5,Female,23,Other,Bay Area,Female,44,Other,Rest of World,Male,23,Other,Bay Area,Male,21,Other,Bay Area,Female,15,Other,Bay Area
+1,8/28/17,1:43:00 PM,Male,23,Senior,Rest of World,4,Female,22,Other,LA Area,Male,30,Other,Rest of World,Male,23,Senior,Bay Area,Male,23,Other,Bay Area,,,,
+2,8/28/17,2:27:00 PM,Female,20,Junior,Bay Area,5,Male,21,Junior,LA Area,Female,48,Other,Bay Area,Male,49,Other,Bay Area,Female,20,Junior,Bay Area,Female,20,Junior,Bay Area
+3,8/28/17,2:30:00 PM,Male,21,Junior,LA Area,5,Female,20,Junior,Bay Area,Female,18,Freshman,LA Area,Female,50,Other,LA Area,Male,20,Junior,Bay Area,Male,29,Other,Bay Area
+1,8/28/17,1:42:00 PM,Female,20,Junior,Rest of World,3,Female,45,Other,Rest of World,Male,21,Junior,Rest of California,Female,21,Junior,Rest of World,,,,,,,,
+2,8/28/17,7:40:00 PM,Male,21,Senior,Bay Area,3,Female,20,Junior,Bay Area,Male,20,Junior,Rest of United States,Female,21,Senior,Bay Area,,,,,,,,
+3,9/3/17,2:20:00 PM,Female,20,Senior,Bay Area,4,Female,21,Senior,Bay Area,Female,21,Senior,Rest of World,Female,21,Senior,Bay Area,Male,21,Senior,Rest of World,,,,
+1,,1:42:00 PM,Female,19,Sophomore,Bay Area,5,Male,20,Sophomore,Rest of United States,Male,20,Junior,Bay Area,Male,20,Junior,Bay Area,Male,19,Sophomore,Rest of California,Female,42,Other,Bay Area
+1,8/28/17,1:43:00 PM,Female,19,Sophomore,Bay Area,5,Male,20,Sophomore,Rest of United States,Male,20,Junior,Bay Area,Male,20,Junior,Bay Area,Male,19,Sophomore,Rest of California,Female,42,Other,Bay Area
+2,9/3/17,9:49:00 PM,Male,21,Junior,Rest of United States,3,Female,20,Junior,Rest of World,Male,20,Junior,Rest of United States,Female,19,Junior,LA Area,,,,,,,,
+3,,9:04:00 PM,Female,19,Sophomore,Rest of World,5,Female,48,Other,Rest of World,Male,48,Other,Rest of World,Male,21,Senior,Rest of World,Female,19,Sophomore,Rest of World,Female,19,Other,Rest of World
+1,8/27/17,1:45:00 PM,Male,19,Sophomore,Rest of United States,5,Male,22,Senior,Bay Area,Female,19,Freshman,Rest of United States,Female,55,Other,Rest of World,Male,55,Other,Rest of United States,Male,19,Sophomore,LA Area
+2,9/4/17,8:10:00 PM,Female,20,Junior,LA Area,3,Female,47,Other,Rest of World,Female,20,Junior,Bay Area,Female,21,Junior,Rest of California,,,,,,,,
+3,9/4/17,8:14:00 PM,Female,21,Junior,Rest of California,6+,Female,25,Other,Rest of California,Female,44,Other,Rest of World,Female,20,Junior,LA Area,Female,20,Junior,Bay Area,Female,20,Junior,Bay Area
+1,9/4/17,12:35:00 PM,Male,19,Sophomore,Rest of California,6+,Male,19,Sophomore,Bay Area,Male,19,Sophomore,Bay Area,Female,19,Sophomore,Rest of United States,Male,19,Sophomore,Rest of California,Male,19,Sophomore,Rest of California
+2,9/5/17,6:00:00 PM,Male,19,Sophomore,Rest of California,5,Female,17,Freshman,LA Area,Male,19,Sophomore,Rest of California,Male,19,Sophomore,Rest of United States,Female,19,Sophomore,Rest of California,Male,19,Sophomore,Bay Area
+3,9/5/17,10:15:00 PM,Male,19,Sophomore,Bay Area,6+,Male,19,Sophomore,Bay Area,Male,19,Sophomore,Rest of California,Male,19,Sophomore,Bay Area,Female,21,Senior,Bay Area,Female,20,Junior,Bay Area
+1,8/28/17,1:42:00 PM,Male,19,Sophomore,Bay Area,5,Female,19,Sophomore,Bay Area,Female,19,Sophomore,LA Area,Male,19,Sophomore,Bay Area,Male,19,Sophomore,Bay Area,Male,19,Sophomore,Bay Area
+2,9/3/17,11:46:00 AM,Female,21,Senior,Bay Area,5,Male,21,Senior,Rest of California,Female,20,Senior,LA Area,Female,23,Other,Rest of California,Female,23,Other,Rest of United States,Male,21,Senior,Bay Area
+3,9/6/17,1:14:00 AM,Male,21,Senior,Rest of United States,2,Male,48,Other,Rest of World,Male,21,Senior,Bay Area,,,,,,,,,,,,
+1,8/28/17,1:45:00 PM,Female,19,Sophomore,Bay Area,5,Female,55,Other,Rest of World,Male,55,Other,Rest of World,Male,16,Other,Bay Area,Female,19,Sophomore,Bay Area,Female,19,Sophomore,Bay Area
+2,9/4/17,5:00:00 PM,Male,19,Sophomore,Rest of California,3,Female,19,Sophomore,Rest of California,Female,50,Other,Rest of California,Male,50,Other,Rest of California,,,,,,,,
+3,9/5/17,6:34:00 PM,Male,19,Sophomore,Rest of United States,5,Male,19,Sophomore,Bay Area,Male,19,Sophomore,Bay Area,Male,19,Other,Bay Area,Male,19,Sophomore,Bay Area,Female,19,Sophomore,Bay Area
+1,8/23/17,1:43:00 PM,Female,22,Senior,Rest of World,5,Female,44,Other,Rest of World,Male,23,Senior,Rest of World,Male,23,Senior,Rest of World,Female,22,Senior,Rest of World,Female,22,Senior,Rest of World
+2,8/28/17,7:14:00 PM,Female,18,Sophomore,Bay Area,5,Female,46,Other,Rest of World,Female,16,Other,Bay Area,Male,46,Other,Rest of World,Male,19,Sophomore,Bay Area,Female,19,Sophomore,Bay Area
+3,8/31/17,12:06:00 PM,Female,19,Sophomore,Bay Area,5,Female,56,Other,Rest of United States,Female,19,Sophomore,Bay Area,Male,20,Junior,Bay Area,Female,19,Sophomore,Rest of California,Male,59,Other,Rest of United States
+1,8/28/17,1:45:00 PM,Female,21,Senior,Rest of California,6+,Female,46,Other,Rest of World,Female,21,Senior,Bay Area,Female,22,Senior,Rest of World,Female,21,Senior,Rest of California,Female,20,Senior,Rest of California
+2,8/28/17,11:45:00 PM,Male,20,Junior,Rest of World,6+,Male,48,Other,Rest of World,Female,51,Other,Rest of World,Male,65,Other,Rest of World,Female,20,Junior,Bay Area,Female,19,Junior,Rest of World
+3,8/29/17,10:56:00 AM,Male,20,Junior,Bay Area,5,Male,20,Junior,Bay Area,Male,59,Other,Bay Area,Female,61,Other,Rest of World,Male,20,Junior,Bay Area,Male,20,Junior,Bay Area
+1,8/28/17,1:43:00 PM,Female,20,Junior,Bay Area,5,Female,20,Junior,Bay Area,Female,20,Junior,Bay Area,Male,19,Junior,Rest of United States,Male,49,Other,Bay Area,Female,47,Other,Bay Area
+2,5/5/17,10:00:00 PM,Female,22,Other,LA Area,5,Male,23,Senior,Rest of World,Male,17,Other,LA Area,Male,16,Other,LA Area,Male,23,Other,Bay Area,Female,23,Other,Bay Area
+3,9/6/17,1:00:00 PM,Male,23,Senior,Bay Area,4,Male,20,Senior,LA Area,Male,23,Other,Bay Area,Male,22,Senior,Rest of California,Male,23,Senior,Rest of World,,,,
+1,8/28/17,1:38:00 PM,Female,23,Other,Rest of World,2,Female,23,Other,Rest of World,Male,26,Other,Rest of World,,,,,,,,,,,,
+2,8/30/17,12:45:00 PM,Female,28,Other,Bay Area,5,Male,28,Other,Bay Area,Female,20,Junior,Rest of World,Male,30,Other,Bay Area,Female,30,Other,Bay Area,Female,28,Other,Bay Area
+3,9/6/17,9:17:00 AM,Male,19,Sophomore,Bay Area,4,Female,20,Junior,Bay Area,Male,21,Junior,LA Area,Female,19,Sophomore,LA Area,Female,18,Freshman,Bay Area,,,,
+1,8/28/17,1:42:00 PM,Male,20,Senior,LA Area,2,Male,55,Other,Bay Area,Female,35,Other,Rest of United States,,,,,,,,,,,,
+2,8/28/17,10:11:00 PM,Female,19,Sophomore,Bay Area,5,Female,20,Senior,Bay Area,Female,19,Sophomore,Bay Area,Male,19,Sophomore,Bay Area,Female,18,Sophomore,Bay Area,Male,19,Sophomore,Bay Area
+3,8/28/17,10:15:00 PM,Female,19,Sophomore,Bay Area,2,Female,25,Other,Bay Area,Female,19,Sophomore,Bay Area,,,,,,,,,,,,
+1,8/28/17,1:38:00 PM,Male,18,Sophomore,Bay Area,6+,Female,19,Sophomore,Bay Area,Female,45,Other,Bay Area,Female,19,Sophomore,Bay Area,Male,48,Other,Bay Area,Male,19,Sophomore,Bay Area
+2,9/6/17,9:17:00 PM,Male,19,Sophomore,LA Area,6+,Male,19,Sophomore,LA Area,Female,10,Other,LA Area,Male,19,Sophomore,LA Area,Male,19,Sophomore,LA Area,Male,19,Sophomore,LA Area
+3,9/6/17,9:23:00 PM,Female,18,Sophomore,LA Area,6+,Female,21,Other,LA Area,Female,19,Sophomore,LA Area,Female,19,Sophomore,LA Area,Female,19,Sophomore,LA Area,Male,19,Sophomore,Bay Area
+1,8/28/17,1:43:00 PM,Female,22,Junior,Rest of World,3,Male,28,Junior,LA Area,Female,25,Senior,Rest of World,Female,24,Other,Rest of World,,,,,,,,
+2,9/5/17,11:40:00 PM,Male,20,Senior,LA Area,5,Male,20,Junior,Bay Area,Male,20,Junior,Bay Area,Male,57,Other,LA Area,Female,23,Other,LA Area,Female,18,Sophomore,Bay Area
+3,9/6/17,10:55:00 AM,Male,20,Junior,Bay Area,5,Male,20,Junior,Bay Area,Male,20,Senior,LA Area,Female,20,Junior,Bay Area,Female,20,Junior,Bay Area,Female,20,Junior,Bay Area
+1,9/6/17,10:09:00 PM,Female,20,Senior,Bay Area,5,Female,56,Other,Bay Area,Female,24,Other,Bay Area,Male,22,Senior,Bay Area,Male,60,Other,Bay Area,Female,18,Freshman,Bay Area
+2,9/7/17,12:04:00 AM,Female,20,Junior,Bay Area,6+,Male,64,Other,Bay Area,Female,56,Other,Bay Area,Female,22,Senior,Bay Area,Female,20,Junior,Rest of California,Female,19,Junior,Rest of California
+3,9/7/17,12:18:00 AM,Female,19,Junior,Rest of World,4,Female,49,Other,Rest of World,Male,52,Other,Rest of World,Female,18,Junior,Rest of World,Male,52,Other,Bay Area,,,,
+1,8/28/17,1:47:00 PM,Female,19,Sophomore,Bay Area,5,Male,19,Sophomore,Bay Area,Female,18,Sophomore,Bay Area,Female,19,Sophomore,Bay Area,Female,19,Sophomore,Bay Area,Female,49,Other,Bay Area
+2,9/5/17,10:30:00 AM,Female,22,Senior,Rest of World,5,Female,22,Senior,Rest of World,Female,22,Other,Rest of World,Male,24,Senior,Rest of World,Male,22,Other,Rest of World,Female,22,Senior,Rest of World
+3,9/6/17,6:30:00 PM,Female,23,Senior,Rest of World,5,Female,29,Other,Bay Area,Female,36,Other,Bay Area,Female,45,Other,Rest of World,Female,23,Senior,Bay Area,Female,23,Senior,Bay Area
+1,8/28/17,1:50:00 PM,Female,19,Sophomore,Rest of California,4,Male,19,Sophomore,Rest of California,Female,20,Junior,Rest of California,Female,55,Other,Rest of World,Female,19,Sophomore,Bay Area,,,,
+2,8/30/17,9:43:00 PM,Female,19,Sophomore,Bay Area,6+,Female,19,Sophomore,Bay Area,Male,22,Other,Rest of California,Female,21,Senior,LA Area,Female,21,Senior,Rest of United States,Female,21,Senior,Bay Area
+3,9/6/17,9:31:00 PM,Male,19,Sophomore,LA Area,6+,Male,19,Sophomore,LA Area,Male,19,Sophomore,LA Area,Female,25,Other,LA Area,Male,19,Sophomore,LA Area,Male,53,Other,Rest of World
+1,8/28/17,1:42:00 PM,Female,19,Sophomore,Rest of United States,3,Male,19,Sophomore,Rest of United States,Male,19,Sophomore,LA Area,Female,19,Sophomore,LA Area,,,,,,,,
+2,9/6/17,11:45:00 PM,Female,19,Sophomore,LA Area,6+,Female,19,Sophomore,Bay Area,Female,19,Sophomore,Rest of United States,Female,19,Sophomore,Bay Area,Female,19,Sophomore,LA Area,Male,20,Sophomore,Rest of California
+3,9/7/17,9:00:00 AM,Female,19,Sophomore,Bay Area,6+,Female,19,Sophomore,LA Area,Female,19,Sophomore,Bay Area,Female,19,Sophomore,Rest of United States,Female,18,Freshman,Bay Area,Male,23,Other,Bay Area
+1,8/28/17,1:47:00 PM,Male,19,Sophomore,Rest of United States,6+,Female,54,Other,Rest of United States,Male,56,Other,Rest of United States,Female,22,Other,Rest of United States,Male,19,Sophomore,Rest of United States,Male,19,Sophomore,Rest of United States
+2,9/7/17,8:40:00 PM,Male,18,Sophomore,Bay Area,4,Male,18,Sophomore,Bay Area,Male,19,Sophomore,Bay Area,Female,42,Other,Rest of World,Female,19,Sophomore,Bay Area,,,,
+3,9/7/17,9:10:00 PM,Male,19,Sophomore,Bay Area,5,Female,40,Other,Rest of World,Male,45,Other,Rest of World,Male,19,Sophomore,Bay Area,Male,45,Other,Bay Area,Male,19,Sophomore,Bay Area
+1,9/7/17,5:47:00 PM,Female,22,Junior,Rest of World,5,Male,22,Junior,Rest of World,Female,21,Senior,Rest of World,Female,52,Other,Rest of World,Male,22,Junior,Rest of World,Female,21,Other,LA Area
+2,9/7/17,6:15:00 PM,Female,20,Junior,Rest of World,5,Female,20,Junior,Rest of World,Female,20,Freshman,Rest of World,Female,21,Other,Rest of World,Female,16,Other,Rest of World,Female,18,Freshman,Rest of World
+3,9/7/17,10:11:00 PM,Female,20,Junior,Rest of World,4,Male,40,,Rest of World,,50,Other,Rest of World,Male,20,Junior,Rest of World,Male,20,Junior,Rest of World,,,,
