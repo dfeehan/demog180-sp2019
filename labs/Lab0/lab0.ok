@@ -2,7 +2,7 @@
   "name": "Demography180 Lab 0",
   "endpoint": "cal/demog180/sp19/lab0",
   "src": [
-     "lab0_solution.ipynb"
+     "lab0.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"
