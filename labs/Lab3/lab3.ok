@@ -1,0 +1,16 @@
+{
+  "name": "Demography180 Lab 3",
+  "endpoint": "cal/demog180/sp19/lab3",
+  "src": [
+     "lab3.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "locking",
+      "backup"
+  ]
+}
