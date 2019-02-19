@@ -1,4 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
 .DS_Store
-.ipynb_checkpoints
 .ok_storage.db
 
+.ipynb_checkpoints/*
+.ipynb_checkpoints
