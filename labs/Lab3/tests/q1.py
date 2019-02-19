@@ -8,7 +8,7 @@ test = {
         {
           
           'code': """
-          >>> test.nodes() == 8 & test.edges() == 8
+          >>> len(test.nodes()) == 8 & len(test.edges()) == 8
           True
           """,
           'hidden': False,
