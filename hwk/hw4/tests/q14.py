@@ -7,6 +7,7 @@ test = {
         {
           'code': r"""
           >>> emp_p_value_apl
+          1.0
           """,
           'hidden': False,
           'locked': False

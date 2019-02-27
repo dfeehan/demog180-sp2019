@@ -7,7 +7,7 @@ test = {
         {
           'code': r"""
           >>> round(np.mean(er_res.column(0)), 2)
-          0.03
+          0.029999999999999999
           """,
           'hidden': False,
           'locked': False
@@ -15,7 +15,7 @@ test = {
         {
           'code': r"""
           >>> round(np.mean(er_res.column(1)), 2)
-          2.88
+          2.8799999999999999
           """,
           'hidden': False,
           'locked': False
@@ -23,7 +23,7 @@ test = {
         {
           'code': r"""
           >>> round(np.corrcoef(er_res['cc'], er_res['apl'])[0,1],2)
-          -0.1
+          -0.029999999999999999
           """,
           'hidden': False,
           'locked': False

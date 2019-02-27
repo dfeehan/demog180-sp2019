@@ -1,1 +1,1 @@
-{"name": "hw04", "endpoint": "cal/demog180/sp19/hw4", "src": ["hw04.ipynb"], "tests": {"tests/q*.py": "ok_test"}, "protocols": ["file_contents", "grading", "backup"]}
+{"name": "hw04", "endpoint": "cal/demog180/sp19/jassigntest1", "src": ["hw04.ipynb"], "tests": {"tests/q*.py": "ok_test"}, "protocols": ["file_contents", "grading", "backup"]}
