@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> round(np.mean(er_res.column(0)), 2)
+          >>> round(float(np.mean(er_res.column(0))), 2)
           0.03
           """,
           'hidden': False,
@@ -14,16 +14,16 @@ test = {
         },
         {
           'code': r"""
-          >>> round(np.mean(er_res.column(1)), 2)
-          2.88
+          >>> round(float(np.mean(er_res.column(1))), 2)
+          2.89
           """,
           'hidden': False,
           'locked': False
         },
         {
           'code': r"""
-          >>> round(np.corrcoef(er_res['cc'], er_res['apl'])[0,1],2)
-          -0.1
+          >>> round(float(np.corrcoef(er_res['cc'], er_res['apl'])[0,1]),2)
+          -0.22
           """,
           'hidden': False,
           'locked': False
