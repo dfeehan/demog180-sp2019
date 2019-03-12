@@ -1,0 +1,1 @@
+{"name": "hw05", "endpoint": "cal/demog180/sp19/hw05", "src": ["hw05.ipynb"], "tests": {"tests/q*.py": "ok_test"}, "protocols": ["file_contents", "grading", "backup"]}
