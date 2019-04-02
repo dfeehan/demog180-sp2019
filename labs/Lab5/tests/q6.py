@@ -7,6 +7,7 @@ test = {
         {
           'code': r"""
           >>> sim_res.num_rows
+          20000
           """,
           'hidden': False,
           'locked': False
