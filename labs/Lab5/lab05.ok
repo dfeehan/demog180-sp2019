@@ -1,1 +1,1 @@
-{"name": "Lab05", "endpoint": "cal/demog180/sp19/Lab05", "src": ["Lab05.ipynb"], "tests": {"tests/q*.py": "ok_test"}, "protocols": ["file_contents", "grading", "backup"]}
+{"name": "lab05", "endpoint": "cal/demog180/sp19/lab05", "src": ["lab05.ipynb"], "tests": {"tests/q*.py": "ok_test"}, "protocols": ["file_contents", "grading", "backup"]}
